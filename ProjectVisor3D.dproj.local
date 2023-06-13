@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/05 12:46:52.000.826,=C:\Users\juane\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/05 13:00:40.000.264,C:\Users\juane\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\juane\Desktop\Uni\Graficacion\Visor 3D\Visor3D.pas</Transaction>
+    <Transaction>2020/05/05 13:00:40.000.264,C:\Users\juane\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\juane\Desktop\Uni\Graficacion\Visor 3D\Visor3D.dfm</Transaction>
+    <Transaction>2020/05/05 13:00:49.000.739,C:\Users\juane\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\juane\Desktop\Uni\Graficacion\Visor 3D\ProjectVisor3D.dproj</Transaction>
+    <Transaction>2020/05/18 18:32:45.000.374,C:\Users\juane\Desktop\Visor3D (Entrega)\Visor3D.dfm=C:\Users\juane\Desktop\Uni\Graficacion\Visor 3D\Visor3D.dfm</Transaction>
+    <Transaction>2020/05/18 18:32:45.000.374,C:\Users\juane\Desktop\Visor3D (Entrega)\Visor3D.pas=C:\Users\juane\Desktop\Uni\Graficacion\Visor 3D\Visor3D.pas</Transaction>
+    <Transaction>2020/05/18 18:32:56.000.203,C:\Users\juane\Desktop\Visor3D (Entrega)\ProjectVisor3D.dproj=C:\Users\juane\Desktop\Uni\Graficacion\Visor 3D\ProjectVisor3D.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
